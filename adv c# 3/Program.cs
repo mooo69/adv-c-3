@@ -71,5 +71,5 @@ namespace Assignment03
                 Console.WriteLine(fptr(b));
             }
         }
-    }
+     }
 }
